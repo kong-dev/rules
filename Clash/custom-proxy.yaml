@@ -1,2 +1,3 @@
 payload:
   # > Custom Proxy
+  - DOMAIN-SUFFIX,google.com
