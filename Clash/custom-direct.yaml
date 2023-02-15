@@ -2,4 +2,6 @@ payload:
   # > Custom Direct
   - DOMAIN-SUFFIX,growingio.com
   - DOMAIN-SUFFIX,giocdn.com
+  - DOMAIN-SUFFIX,browser.gwdang.com
+  - DOMAIN-SUFFIX,router.gwdang.com
   
