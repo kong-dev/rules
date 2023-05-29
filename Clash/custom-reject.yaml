@@ -1,5 +1,5 @@
 payload:
   # > Custom Reject
-  - DOMAIN,o33249.ingest.sentry.io,REJECT
-  - DOMAIN,openaicom.imgix.net,REJECT
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openaicom.imgix.net
   
