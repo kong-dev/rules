@@ -1,0 +1,5 @@
+payload:
+  # > Custom Reject
+  - DOMAIN,o33249.ingest.sentry.io,REJECT
+  - DOMAIN,openaicom.imgix.net,REJECT
+  
