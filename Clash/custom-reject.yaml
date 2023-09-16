@@ -1,5 +1,6 @@
 payload:
   # > Custom Reject
+  # OpenAI
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openaicom.imgix.net
   
