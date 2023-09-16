@@ -1,6 +1,8 @@
 payload:
   # > Custom Proxy
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,workers.dev
+  # PT
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,fsm.name
+  
